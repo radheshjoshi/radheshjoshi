@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 🌱 I’m currently woking on [24x7 OnCourts](https://oncourts.kerala.gov.in/about)  <br>
 👩🏻‍🎓 Graduated from Indian Institute of Technology, Roorkee<br>
-🤝 Currently I amd deep diving into **Spring Boot**, exploring its advanced features to build robust backend solutions. <br>
+🤝 Currently I am deep diving into **Spring Boot**, exploring its advanced features to build robust backend solutions. <br>
 📫 Reach me on: [Email](radheshjoshi904@gmail.com) | [LinkedIn](https://www.linkedin.com/in/radhesh-joshi-358156176/) <br>
 
 ---
